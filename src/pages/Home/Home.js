@@ -62,8 +62,7 @@ const Home = () => {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "d33f4d8414msh70f0f8418a78946p14b7a6jsnaed600ac4379",
-      "X-RapidAPI-Host": "edamam-food-and-grocery-database.p.rapidapi.com",
+
     },
   };
 
